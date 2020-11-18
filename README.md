@@ -1,6 +1,6 @@
 # login_ui1
 
-A new Flutter application.
+This is just a UserInterface Design for Login Page without any Functionality.
 
 ## Getting Started
 
